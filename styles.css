@@ -1,10 +1,10 @@
-.container{
+.holder{
 	display:flex;
 	flex-flow:row-reverse wrap-reverse;
 	align-items:center;
 	justify-content:space-around;
 }
-.container > div{
+.holder > div{
 	padding:100px;
 	margin:20px;
 	gap:none;
